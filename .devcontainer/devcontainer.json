@@ -1,6 +1,6 @@
 {
-  "name": "Nodejs + Javascript Devcontainer",
-  "image": "mcr.microsoft.com/devcontainers/javascript-node:18",
+  "name": "HTML Devcontainer",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "customizations": {
     "vscode": {
       "extensions": [

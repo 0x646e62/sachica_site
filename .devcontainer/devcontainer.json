@@ -1,0 +1,12 @@
+{
+  "name": "Nodejs + Javascript Devcontainer",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:18",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "JoelCrosby.one-dark-darker",
+        "vscodevim.vim"
+      ]
+    }
+  }
+}
